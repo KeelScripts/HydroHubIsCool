@@ -276,24 +276,9 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-
-
-HmTab:AddButton({
-	Name = "Aresenal Script",
-	Callback = function()
-      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Herrtt/AimHot-v8/master/Main.lua", true))()
-end)
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-
   end
 end)
  
 GetKeyButton.MouseButton1Click:Connect(function()
  setclipboard("https://lootdest.org/s?79d8097d") 
-end) 
+end)
