@@ -133,18 +133,6 @@ local Section = HiTab:AddSection({
 Name = <string> - The name of the section.
 ]]
 
-HiTab:AddButton({
-	Name = "REDzHub",
-	Callback = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()()
-      		print("button pressed")
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-
   end
 end)
  
