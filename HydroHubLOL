@@ -240,7 +240,7 @@ Name = <string> - The name of the section.
 HmTab:AddButton({
 	Name = "Tbao Hub",
 	Callback = function()
-	        loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/ArsenalTbaoHubNew"))()
+	        loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubArsenal"))()
   	end    
 })
 
