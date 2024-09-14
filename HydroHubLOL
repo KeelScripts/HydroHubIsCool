@@ -221,5 +221,5 @@ Callback = <function> - The function of the button.
 end)
  
 GetKeyButton.MouseButton1Click:Connect(function()
- setclipboard("Paste here your link to get the key") 
+ setclipboard("https://lootdest.org/s?a35d2205") 
 end) 
