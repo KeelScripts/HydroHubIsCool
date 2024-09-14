@@ -126,11 +126,23 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 ]]
 
 local Section = HiTab:AddSection({
-	Name = "blox"
+	Name = "BloxFruits"
 })
 
 --[[
 Name = <string> - The name of the section.
+]]
+
+HiTab:AddButton({
+	Name = "REDz Hub",
+	Callback = function()
+      		print("loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
 ]]
 
   end
