@@ -265,9 +265,9 @@ Callback = <function> - The function of the button.
 ]]
 
 HmTab:AddButton({
-	Name = "Button!",
+	Name = "Owl Hub",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
   	end    
 })
 
@@ -276,22 +276,12 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
-HmTab:AddButton({
-	Name = "Button!",
-	Callback = function()
-      		print("button pressed")
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
 
 HmTab:AddButton({
-	Name = "Button!",
+	Name = "Aresenal Esp Etc",
 	Callback = function()
-      		print("button pressed")
+      	        loadstring(game:HttpGet("https://raw.githubusercontent.com/Herrtt/AimHot-v8/master/Main.lua", true))()
+end)
   	end    
 })
 
