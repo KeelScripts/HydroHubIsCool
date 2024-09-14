@@ -165,9 +165,9 @@ DBTab:AddButton({
 })
 
 DBTab:AddButton({
-	Name = "Button!",
+	Name = "ExperienceHub",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Memories0912/Experience-Script/main/Gen2Beta.lua"))()
   	end    
 })
 
@@ -182,9 +182,9 @@ Callback = <function> - The function of the button.
 ]]
 
 DBTab:AddButton({
-	Name = "Button!",
+	Name = "ORG hub",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/ORG-hubb/ORG/main/output.lua"))()
   	end    
 })
 
