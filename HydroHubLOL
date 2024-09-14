@@ -237,6 +237,78 @@ local Section = HmTab:AddSection({
 Name = <string> - The name of the section.
 ]]
 
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+	        loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/ArsenalTbaoHubNew"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
   end
 end)
  
