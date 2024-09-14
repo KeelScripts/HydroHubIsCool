@@ -238,7 +238,7 @@ Name = <string> - The name of the section.
 ]]
 
 HmTab:AddButton({
-	Name = "Button!",
+	Name = "Tbao Hub",
 	Callback = function()
 	        loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/ArsenalTbaoHubNew"))()
   	end    
@@ -250,9 +250,12 @@ Callback = <function> - The function of the button.
 ]]
 
 HmTab:AddButton({
-	Name = "Button!",
+	Name = "VG Hub",
 	Callback = function()
-      		print("button pressed")
+      		getgenv().KeySystem = false
+getgenv().Advertisement = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+
   	end    
 })
 
