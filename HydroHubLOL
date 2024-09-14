@@ -134,8 +134,8 @@ Name = <string> - The name of the section.
 ]]
 
 HiTab:AddButton({
-	Name = "REDz Hub",
-	Callback = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+	Name = "REDzHub",
+	Callback = loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()()
       		print("button pressed")
   	end    
 })
@@ -144,7 +144,6 @@ HiTab:AddButton({
 Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
-
   end
 end)
  
