@@ -145,6 +145,30 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
+DBTab:AddButton({
+	Name = "Maris Hub",
+        Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/marisdeptrai/Script-Free/main/Maris-Hub'))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+DBTab:AddButton({
+	Name = "Minxt Hub",
+	Callback = function()
+      		loadstring(game:HttpGet"https://raw.githubusercontent.com/Basicallyy/Basicallyy/main/Min_XT_V2_.lua")()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
   end
 end)
  
