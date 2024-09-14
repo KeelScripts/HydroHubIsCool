@@ -194,9 +194,9 @@ Callback = <function> - The function of the button.
 ]]
 
 DBTab:AddButton({
-	Name = "Button!",
+	Name = "NTT Hub (key)",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/Nttvlog112/MH/main/NTT_HUB'))()
   	end    
 })
 
@@ -206,9 +206,9 @@ Callback = <function> - The function of the button.
 ]]
 
 DBTab:AddButton({
-	Name = "Button!",
+	Name = "ZoroHub (Key)",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelok/zoru-hub/main/01"))()
   	end    
 })
 
