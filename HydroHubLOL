@@ -314,6 +314,62 @@ HmTab:AddButton({
   	end    
 })
 
+local PLTab = Window:MakeTab({
+	Name = "Prison Life",
+	Icon = "nil",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local PLSection = Tab:AddSection({
+	Name = "Prison life"
+})
+
+--[[
+Name = <string> - The name of the section.
+]]
+
+PLTab:AddButton({
+	Name = "Nexus Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/GwnStefano/NexusHub/main/Main", true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+PLTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+PLTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
   end
 end)
  
