@@ -307,22 +307,12 @@ HmTab:AddButton({
   	end    
 })
 
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-
 HmTab:AddButton({
 	Name = "LEG HUB",
 	Callback = function()
-      		loadstring(game:HttpGet("https://pastebin.com/raw/G6Ubkkuv"))() 
+      		loadstring(game:HttpGet("https://pastebin.com/raw/G6Ubkkuv"))()
   	end    
 })
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
 
   end
 end)
