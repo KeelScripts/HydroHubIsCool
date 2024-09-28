@@ -370,6 +370,54 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
+PLTab:AddButton({
+	Name = "Gui for prison life",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/GzeWWPWN"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+PLTab:AddButton({
+	Name = "PRISON LIFE ADMIN",
+	Callback = function()
+      		loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+PLTab:AddButton({
+	Name = "Vynixious",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Prison%20Life/Script.lua"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+PLTab:AddButton({
+	Name = "TROLL GUI (KEY)",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/wMagw9Cn", true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
   end
 end)
  
