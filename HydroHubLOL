@@ -276,6 +276,30 @@ Name = <string> - The name of the button.
 Callback = <function> - The function of the button.
 ]]
 
+HmTab:AddButton({
+	Name = "SKIDDED TECH (skidded advance tech) not mine",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/14xXHZQW"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "Button!",
+	Callback = function()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
   end
 end)
  
