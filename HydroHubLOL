@@ -282,30 +282,6 @@ HmTab:AddButton({
                 loadstring(game:HttpGet("https://pastebin.com/raw/14xXHZQW"))()
   	end    
 
-HmTab:AddButton({
-	Name = "EZ Hub",
-	Callback = function()
-      		loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-
-HmTab:AddButton({
-	Name = "Button!",
-	Callback = function()
-      		print("button pressed")
-  	end    
-})
-
---[[
-Name = <string> - The name of the button.
-Callback = <function> - The function of the button.
-]]
-
   end
 end)
  
