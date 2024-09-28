@@ -289,9 +289,33 @@ Callback = <function> - The function of the button.
 ]]
 
 HmTab:AddButton({
-	Name = "Button!",
+	Name = "EZ HUB",
 	Callback = function()
-      		print("button pressed")
+      		loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "GUIZZY HUB",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Arsenallua/main/Arsenal.lua"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+HmTab:AddButton({
+	Name = "LEG HUB",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastebin.com/raw/G6Ubkkuv"))() 
   	end    
 })
 
