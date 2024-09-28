@@ -326,7 +326,7 @@ Icon = <string> - The icon of the tab.
 PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 ]]
 
-local PLSection = Tab:AddSection({
+local Section = PLTab:AddSection({
 	Name = "Prison life"
 })
 
