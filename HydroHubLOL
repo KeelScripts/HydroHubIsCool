@@ -375,18 +375,6 @@ PLTab:AddButton({
   	end    
 })
 
-local M2Tab = Window:MakeTab({
-	Name = "MM2",
-	Icon = "nil",
-	PremiumOnly = false
-})
-
---[[
-Name = <string> - The name of the tab.
-Icon = <string> - The icon of the tab.
-PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
-]]
-
   end
 end)
  
